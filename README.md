@@ -1,1 +1,2 @@
 - tarefinha da disciplina de POO
+- deixei a senha e o usuário como "root" por pura preguiça
