@@ -14,8 +14,8 @@ public class Conexao {
 
             Connection con = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/farmacia",
-                    "root",
-                    "root"
+                    "usuário",
+                    "senha"
             );
 
             return con;
